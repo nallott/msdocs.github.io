@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[38],{136:function(e){e.exports=JSON.parse('{"allTagsPath":"/ManySecured-SUIB/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/ManySecured-SUIB/blog/tags/hello"}')}}]);
