@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{105:function(a){a.exports=JSON.parse('{"allTagsPath":"/ManySecured-SUIB/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/ManySecured-SUIB/blog/tags/facebook"}')}}]);
